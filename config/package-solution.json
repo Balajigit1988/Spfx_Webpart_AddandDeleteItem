@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "webpart-add-and-delete-item-client-side-solution",
+    "id": "829070f5-c70a-4c7b-aa3b-67fdf7fa012d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/webpart-add-and-delete-item.sppkg"
+  }
+}

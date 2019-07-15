@@ -1,0 +1,23 @@
+declare const styles: {
+    webpartAddAndDeleteItem: string;
+    container: string;
+    row: string;
+    column: string;
+    'ms-Grid': string;
+    title: string;
+    subTitle: string;
+    description: string;
+    button: string;
+    label: string;
+    adminSection: string;
+    footerForm: string;
+    footerFormField: string;
+    footerFormButton: string;
+    footerlinks: string;
+    footerlistButtons: string;
+    footerButton: string;
+    footerOptionButton: string;
+    panelButtons: string;
+    errorColor: string;
+};
+export default styles;
